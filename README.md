@@ -1,5 +1,5 @@
 #  Sample Maven Application: maven-employee-web-application
-maven-employee-web-application sample
+maven-employee-web-application sample project
 
 ### References
  - https://maven.apache.org/pom.html
